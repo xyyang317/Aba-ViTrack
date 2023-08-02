@@ -6,7 +6,7 @@ The official implementation of the ICCV 2023 paper [Adaptive and Background-Awar
    ```
    conda create -n abavitrack python=3.8
    conda activate abavitrack
-   pip install -r requirement.txt
+   bash install.sh
    ```
 
 ## Run demo
