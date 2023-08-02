@@ -16,8 +16,8 @@ Download the model and put it in checkpoints
    python demo.py
    ```
 
-## Model Zoo and raw results
-The trained model and the raw tracking results are provided in the [Model and Results](https://pan.baidu.com/s/13aXfsihrbrh8WMu6XYTthA?pwd=nen9) (Baidu Driver: nen9).
+## Model and raw results
+The trained model and the raw tracking results are provided in the [Model and Results](https://pan.baidu.com/s/13aXfsihrbrh8WMu6XYTthA?pwd=nen9) (code: nen9).
 
 ## Citation
 
