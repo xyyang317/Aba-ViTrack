@@ -13,7 +13,7 @@ The official implementation of the ICCV 2023 paper [Adaptive and Background-Awar
 Download the model and put it in checkpoints
 
    ```
-   python demo.py
+   python demo.py --initial_bbox 499 421 102 179 
    ```
 
 ## Model and raw results
