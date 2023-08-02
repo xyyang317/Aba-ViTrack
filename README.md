@@ -11,7 +11,8 @@ The official implementation of the ICCV 2023 paper [Adaptive and Background-Awar
 
 ## Run demo
 Download the model and put it in checkpoints
-run```
+run
+   ```
    python demo.py
    ```
 
