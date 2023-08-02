@@ -1,8 +1,7 @@
-当然！下面是一个简单的GitHub README示例：
+# Aba-ViTrack
 
-# 项目名称
-
-这是一个关于项目的简短介绍。
+The official implementation of the ICCV 2023 paper Adaptive and Background-Aware Vision Transformer for Real-Time UAV
+Tracking
 
 ## 功能特点
 
