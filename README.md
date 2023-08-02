@@ -23,9 +23,3 @@ The trained model and the raw tracking results are provided in the [Model and Re
 
 
 
-## Contact
-If you have any questions or suggestions, please contact us via:
-
-- Email: xyyang317@163.com
-
-Thank you for your interest and support!
