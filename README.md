@@ -2,6 +2,10 @@
 
 The official implementation of the ICCV 2023 paper [Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking](https://iccv2023.thecvf.com/)
 
+<p align="center">
+  <img width="85%" src="https://github.com/1HykhqV3rU/Aba-ViTrack/blob/main/arch.png" alt="Framework"/>
+</p>
+
 ## Install the environment
    ```
    conda create -n abavitrack python=3.8
