@@ -7,6 +7,7 @@ The official implementation of the ICCV 2023 paper [Adaptive and Background-Awar
 </p>
 
 ## Install the environment
+This code has been tested on Ubuntu 18.04, CUDA 10.2. Please install related libraries before running this code:
    ```
    conda create -n abavitrack python=3.8
    conda activate abavitrack
