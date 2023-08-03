@@ -14,15 +14,15 @@ This code has been tested on Ubuntu 18.04, CUDA 10.2. Please install related lib
    bash install.sh
    ```
 
+## Model and raw results
+The trained model and the raw tracking results are provided in the [Baidu Netdisk](https://pan.baidu.com/s/13aXfsihrbrh8WMu6XYTthA?pwd=nen9)(code: nen9) or [Google Drive](https://drive.google.com/drive/folders/17FYC5xl8EaBL21Zbhj7yQcU0lg9mblwx?usp=drive_link).
+
 ## Run demo
 Download the model and put it in checkpoints
 
    ```
    python demo.py --initial_bbox 499 421 102 179 
    ```
-
-## Model and raw results
-The trained model and the raw tracking results are provided in the [Baidu Netdisk](https://pan.baidu.com/s/13aXfsihrbrh8WMu6XYTthA?pwd=nen9)(code: nen9) or [Google Drive](https://drive.google.com/drive/folders/17FYC5xl8EaBL21Zbhj7yQcU0lg9mblwx?usp=drive_link).
 
 ## Citation
 
