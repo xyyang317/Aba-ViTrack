@@ -25,6 +25,7 @@ Download the model and put it in checkpoints
    ```
 
 ## Citation
+```
 @InProceedings{Li_2023_ICCV,
     author    = {Li, Shuiwang and Yang, Yangxiang and Zeng, Dan and Wang, Xucheng},
     title     = {Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking},
@@ -33,3 +34,4 @@ Download the model and put it in checkpoints
     year      = {2023},
     pages     = {13989-14000}
 }
+```
