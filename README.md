@@ -1,6 +1,6 @@
 # Aba-ViTrack
 
-The official implementation of the ICCV 2023 paper [Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking](https://iccv2023.thecvf.com/)
+The official implementation of the ICCV 2023 paper [Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf)
 
 <p align="center">
   <img width="85%" src="https://github.com/xyyang317/Aba-ViTrack/blob/main/arch.png" alt="Framework"/>
@@ -25,6 +25,11 @@ Download the model and put it in checkpoints
    ```
 
 ## Citation
-
-
-
+@InProceedings{Li_2023_ICCV,
+    author    = {Li, Shuiwang and Yang, Yangxiang and Zeng, Dan and Wang, Xucheng},
+    title     = {Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {13989-14000}
+}
